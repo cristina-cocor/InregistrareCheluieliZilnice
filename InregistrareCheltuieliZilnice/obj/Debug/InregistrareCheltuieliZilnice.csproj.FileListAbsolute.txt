@@ -1,0 +1,15 @@
+C:\Users\Cris\Documents\Uni\A3-S1\TPA\Proiect\InregistrareCheltuieliZilnice\InregistrareCheltuieliZilnice\bin\Debug\InregistrareCheltuieliZilnice.exe.config
+C:\Users\Cris\Documents\Uni\A3-S1\TPA\Proiect\InregistrareCheltuieliZilnice\InregistrareCheltuieliZilnice\bin\Debug\InregistrareCheltuieliZilnice.exe
+C:\Users\Cris\Documents\Uni\A3-S1\TPA\Proiect\InregistrareCheltuieliZilnice\InregistrareCheltuieliZilnice\bin\Debug\InregistrareCheltuieliZilnice.pdb
+C:\Users\Cris\Documents\Uni\A3-S1\TPA\Proiect\InregistrareCheltuieliZilnice\InregistrareCheltuieliZilnice\obj\Debug\InregistrareCheltuieliZilnice.csproj.AssemblyReference.cache
+C:\Users\Cris\Documents\Uni\A3-S1\TPA\Proiect\InregistrareCheltuieliZilnice\InregistrareCheltuieliZilnice\obj\Debug\InregistrareCheltuieliZilnice.Login.resources
+C:\Users\Cris\Documents\Uni\A3-S1\TPA\Proiect\InregistrareCheltuieliZilnice\InregistrareCheltuieliZilnice\obj\Debug\InregistrareCheltuieliZilnice.Properties.Resources.resources
+C:\Users\Cris\Documents\Uni\A3-S1\TPA\Proiect\InregistrareCheltuieliZilnice\InregistrareCheltuieliZilnice\obj\Debug\InregistrareCheltuieliZilnice.csproj.GenerateResource.cache
+C:\Users\Cris\Documents\Uni\A3-S1\TPA\Proiect\InregistrareCheltuieliZilnice\InregistrareCheltuieliZilnice\obj\Debug\InregistrareCheltuieliZilnice.csproj.CoreCompileInputs.cache
+C:\Users\Cris\Documents\Uni\A3-S1\TPA\Proiect\InregistrareCheltuieliZilnice\InregistrareCheltuieliZilnice\obj\Debug\InregistrareCheltuieliZilnice.exe
+C:\Users\Cris\Documents\Uni\A3-S1\TPA\Proiect\InregistrareCheltuieliZilnice\InregistrareCheltuieliZilnice\obj\Debug\InregistrareCheltuieliZilnice.pdb
+C:\Users\Cris\Documents\Uni\A3-S1\TPA\Proiect\InregistrareCheltuieliZilnice\InregistrareCheltuieliZilnice\bin\Debug\DBProiect.accdb
+C:\Users\Cris\Documents\Uni\A3-S1\TPA\Proiect\InregistrareCheltuieliZilnice\InregistrareCheltuieliZilnice\obj\Debug\InregistrareCheltuieliZilnice.Produse.resources
+C:\Users\Cris\Documents\Uni\A3-S1\TPA\Proiect\InregistrareCheltuieliZilnice\InregistrareCheltuieliZilnice\obj\Debug\InregistrareCheltuieliZilnice.Categorii.resources
+C:\Users\Cris\Documents\Uni\A3-S1\TPA\Proiect\InregistrareCheltuieliZilnice\InregistrareCheltuieliZilnice\obj\Debug\InregistrareCheltuieliZilnice.Cheltuieli.resources
+C:\Users\Cris\Documents\Uni\A3-S1\TPA\Proiect\InregistrareCheltuieliZilnice\InregistrareCheltuieliZilnice\obj\Debug\InregistrareCheltuieliZilnice.FCheltuieliAct.resources
